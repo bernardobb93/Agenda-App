@@ -9,7 +9,8 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:orientation="vertical"
-        tools:context=".ui.activity.FormularioAlunoActivity">
+        tools:context=".ui.activity.FormularioAlunoActivity"
+        tools:ignore="RedundantNamespace">
 
         <EditText
             android:id="@+id/activity_formulario_aluno_nome"
